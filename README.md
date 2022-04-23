@@ -1,1 +1,1 @@
-# Nox 
+# Nox Co.
