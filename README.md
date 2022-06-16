@@ -4,6 +4,6 @@ Nox Co is a revolutionary company helping different businesses on creating softw
   2. Billing 3.
   3. Inventory control.
 
-# Phone number : +355 69 420 6969
-# Email : JamIKeqKishaLacit@gmail.com
-# Address : Amsterdam, Netherlands
+* Phone number : +355 69 420 6969
+* Email : JamIKeqKishaLacit@gmail.com
+* Address : Amsterdam, Netherlands
