@@ -1,0 +1,92 @@
+[
+    {
+      "id": 1,
+      "name": "Apetisers",
+      "items": [
+        {
+          "id": 1,
+          "name": "Bruscheta",
+          "price": 400,
+          "image": "https://cdn.pixabay.com/photo/2010/12/13/10/25/canape-2802__480.jpg"
+        },
+        {
+          "id": 2,
+          "name": "Soup of the day",
+          "price": 350,
+          "image": "https://cdn.pixabay.com/photo/2018/08/31/19/13/pumpkin-soup-3645375__340.jpg"
+        },
+        {
+          "id": 3,
+          "name": "Fried Calamari",
+          "price": 1000,
+          "image": "https://media.istockphoto.com/photos/fried-calamari-rings-on-wooden-cutting-board-picture-id958607944?b=1&k=20&m=958607944&s=170667a&w=0&h=i0kSr1mxoqaVYnrcrJbG99Ed9FBxYjasc0-96VbfExI="
+        },
+        {
+          "id": 4,
+          "name": "Salad",
+          "price": 400,
+          "image": "https://media.istockphoto.com/photos/arugula-beet-and-cheese-salad-with-fresh-radicchio-and-walnuts-on-picture-id1171688448?b=1&k=20&m=1171688448&s=170667a&w=0&h=0nKw3LmdvPZYMcTi3fGriaHPmlSnMbImcSg6zkM4Z40="
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Mains",
+      "items": [
+        {
+          "id": 4,
+          "name": "Steak",
+          "price": 1500,
+          "image": "https://cdn.pixabay.com/photo/2017/03/23/19/57/asparagus-2169305__340.jpg"
+        },
+        {
+          "id": 5,
+          "name": "Pasta",
+          "price": 750,
+          "image": "https://media.istockphoto.com/photos/fettuccine-with-shrimp-on-creamy-sause-on-dark-stone-table-picture-id1339086370?b=1&k=20&m=1339086370&s=170667a&w=0&h=khfSvSIc98m8p74ZFAWwsxDlzp_hgDLwbBxgXEAuSc8="
+        },
+        {
+          "id": 6,
+          "name": "Risotto",
+          "price": 900,
+          "image": "https://media.istockphoto.com/photos/risotto-with-mix-of-mushroom-and-taleggio-cheese-on-stone-beige-table-picture-id1344781190?b=1&k=20&m=1344781190&s=170667a&w=0&h=KtVlCna888KUn3GO6btLLTp_smn6jmXJpXuYfIPWTFo="
+        },
+        {
+          "id": 7,
+          "name": "Grilled Salmon",
+          "price": 1300,
+          "image": "https://cdn.pixabay.com/photo/2018/11/16/18/00/salmon-3819966__340.jpg"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Deserts",
+      "items": [
+        {
+          "id": 1,
+          "name": "Cheese Cake",
+          "price": 500,
+          "image": "https://cdn.pixabay.com/photo/2015/12/15/09/37/cake-1093981__340.jpg"
+        },
+        {
+          "id": 2,
+          "name": "Tiramisu",
+          "price": 400,
+          "image": "https://media.istockphoto.com/photos/portion-of-tiramisu-dessert-picture-id1061450296?b=1&k=20&m=1061450296&s=170667a&w=0&h=9OmAEu8aPV3Q1U_HwlFq1nHjrt1TQcII-wxS4HSCl_c="
+        },
+        {
+          "id": 3,
+          "name": "Creme Brule",
+          "price": 500,
+          "image": "https://cdn.pixabay.com/photo/2017/11/11/21/05/food-2940496__340.jpg"
+        },
+        {
+          "id": 4,
+          "name": "Sundae",
+          "price": 300,
+          "image": "https://media.istockphoto.com/photos/top-view-of-vanilla-ice-cream-bowl-outdoors-picture-id1342962705?b=1&k=20&m=1342962705&s=170667a&w=0&h=KR8mV0d_yiYO60Rd_julJW1joyvtIYrNvQsB8uUNYO8="
+        }
+      ]
+    }
+  ]
